@@ -1,0 +1,9 @@
+{
+  "name": "fullstack",
+  "version": "0.0.1",
+  "description": "CouchDB talk for Fullstack Talks",
+  "attachments": ["index.html", "css", "lib", "js"],
+  "dependencies": {
+    "attachments": null
+  }
+}
