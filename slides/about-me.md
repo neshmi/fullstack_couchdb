@@ -3,9 +3,5 @@
 
 Rubyist for Cultural Heritage.
 
-# I am:
+![ArchhaeoMatt](slides/archaeomatt.jpg)
 
-+ an archaeologist
-+ a programmer
-+ a husband
-+ a former preacher (no alter calls tonight)
