@@ -1,9 +1,5 @@
-
 # CouchDB
 
-My dream of Couch
+When I first found out about CouchDB...
 
 ![ComfyCouch](slides/comfycouch.png)
-
-Note:
-This is testing one of my notes

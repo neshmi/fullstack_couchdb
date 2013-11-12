@@ -1,0 +1,3 @@
+## and it progressed...
+
+![OpenDig1.0](slides/imac_opendig.png)

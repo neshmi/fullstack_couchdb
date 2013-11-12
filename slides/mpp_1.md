@@ -1,7 +1,3 @@
+## where it all began...
 
-# Where it all began...
-
-![LocusSheet](slides/mpp_locus_sheet.png)
-
-Note:
-This is testing one of my notes
+<img src="slides/boom.jpg" alt="boom photography" height="150%" width="150%" />
