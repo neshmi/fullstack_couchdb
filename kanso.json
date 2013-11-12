@@ -2,8 +2,10 @@
   "name": "fullstack",
   "version": "0.0.1",
   "description": "CouchDB talk for Fullstack Talks",
+  "modules": "lib",
   "attachments": ["index.html", "css", "lib", "js", "plugin", "slides"],
   "dependencies": {
-    "attachments": null
+    "attachments": null,
+    "modules": null
   }
 }

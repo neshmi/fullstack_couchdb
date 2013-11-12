@@ -17,3 +17,6 @@ Matthew Vincent
 matt@averails.com
 
 http://opendig.org
+
+git: https://github.com/neshmi/fullstack_couchdb
+couchapp: 
