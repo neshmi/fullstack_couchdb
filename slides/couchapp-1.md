@@ -1,3 +1,5 @@
 ## Now, what makes CouchDB particularly awesome...
 
-Now... for a LIVE demo!
+You can embed entire apps within CouchDB.
+
+This reveal.js presentation, is in fact, a CouchApp.

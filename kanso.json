@@ -2,10 +2,12 @@
   "name": "fullstack",
   "version": "0.0.1",
   "description": "CouchDB talk for Fullstack Talks",
-  "modules": "lib",
+  "modules": "kanso_lib",
+  "load": "kanso_lib/rewrites",
   "attachments": ["index.html", "css", "lib", "js", "plugin", "slides"],
   "dependencies": {
     "attachments": null,
-    "modules": null
+    "modules": null,
+    "properties": null
   }
 }

@@ -12,11 +12,13 @@ MapReduce Views in CouchDB, Bradley Holt
 
 ---
 ##Me
-Matthew Vincent
 
 matt@averails.com
 
 http://opendig.org
 
-git: https://github.com/neshmi/fullstack_couchdb
-couchapp: 
+github: github.com/neshmi/fullstack_couchdb
+
+couchdb: opendig.cloudant.com/fullstack_couchdb
+
+slides: fullstack.opendig.org
